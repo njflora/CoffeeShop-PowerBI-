@@ -43,3 +43,5 @@ Dataset was already clean
 
 Corrected a common DAX pitfall where a time-intelligence measure evaluated in the wrong filter context (whole-dataset instead of single-month), forcing correct month-over-month context using FILTER/ALL.
 
+Kept 2nd page visually basic (to save time and move on to the next use case).
+
