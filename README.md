@@ -2,11 +2,11 @@
 
 Coffee Shop Sales Dashboard
 
-A Power BI dashboard analyzing transaction-level sales data for a three-location coffee shop chain, built to answer core retail performance questions: revenue trends, peak trading hours, store comparison, and product-level profitability.
+A Power BI dashboard analyzing transaction-level sales data for a three-location coffee shop chain, built to answer core retail performance questions: revenue trends, peak trading days, store comparison, and product-level profitability.
 
 Business questions answered
 How is revenue trending over time, and what does month-over-month growth look like?
-Which hours of the day drive the most sales, and how should staffing/inventory respond?
+Which days of the week drive the most sales, and how should staffing/inventory respond?
 How do the three store locations compare in performance?
 Which products and categories contribute most to revenue?
 Tools used
@@ -25,7 +25,7 @@ DAX measures Built beyond basic aggregations, including:
 
 Time intelligence: Revenue MTD, month-over-month growth %
 Ranking & contribution: product revenue rank, % of total revenue per product (Pareto-style analysis)
-Store and hourly performance breakdowns
+Store and daily performance breakdowns
 
 Report design Two report pages — an Overview (KPIs, revenue trend, store comparison, hourly sales) and a Products deep-dive (top products, category mix, product-level detail table) — with synced store and date slicers across both pages.
 
